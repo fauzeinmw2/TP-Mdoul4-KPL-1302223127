@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4AC5130A-36D3-4EFE-B685-4D8C5BB33C8A}|tpmodul4_1302223127\\tpmodul4_1302223127.csproj|d:\\telkom university\\semester 4\\kpl\\modul 4\\tpmodul4_1302223127\\tpmodul4_1302223127\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AC5130A-36D3-4EFE-B685-4D8C5BB33C8A}|tpmodul4_1302223127\\tpmodul4_1302223127.csproj|solutionrelative:tpmodul4_1302223127\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC5130A-36D3-4EFE-B685-4D8C5BB33C8A}|tpmodul4_1302223127\\tpmodul4_1302223127.csproj|d:\\telkom university\\semester 4\\kpl\\modul 4\\tpmodul4_1302223127\\tpmodul4_1302223127\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC5130A-36D3-4EFE-B685-4D8C5BB33C8A}|tpmodul4_1302223127\\tpmodul4_1302223127.csproj|solutionrelative:tpmodul4_1302223127\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,23 @@
               "RelativeDocumentMoniker": "tpmodul4_1302223127\\Program.cs",
               "ToolTip": "D:\\Telkom University\\Semester 4\\KPL\\Modul 4\\tpmodul4_1302223127\\tpmodul4_1302223127\\Program.cs",
               "RelativeToolTip": "tpmodul4_1302223127\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T07:17:50.231Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "D:\\Telkom University\\Semester 4\\KPL\\Modul 4\\tpmodul4_1302223127\\tpmodul4_1302223127\\KodePos.cs",
+              "RelativeDocumentMoniker": "tpmodul4_1302223127\\KodePos.cs",
+              "ToolTip": "D:\\Telkom University\\Semester 4\\KPL\\Modul 4\\tpmodul4_1302223127\\tpmodul4_1302223127\\KodePos.cs",
+              "RelativeToolTip": "tpmodul4_1302223127\\KodePos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:40:55.302Z",
               "EditorCaption": ""
             }
           ]
