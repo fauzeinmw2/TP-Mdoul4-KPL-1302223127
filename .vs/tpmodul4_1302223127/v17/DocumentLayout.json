@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Telkom University\\Semester 4\\KPL\\Modul 4\\tpmodul4_1302223127\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC5130A-36D3-4EFE-B685-4D8C5BB33C8A}|tpmodul4_1302223127\\tpmodul4_1302223127.csproj|d:\\telkom university\\semester 4\\kpl\\modul 4\\tpmodul4_1302223127\\tpmodul4_1302223127\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC5130A-36D3-4EFE-B685-4D8C5BB33C8A}|tpmodul4_1302223127\\tpmodul4_1302223127.csproj|solutionrelative:tpmodul4_1302223127\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Telkom University\\Semester 4\\KPL\\Modul 4\\tpmodul4_1302223127\\tpmodul4_1302223127\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul4_1302223127\\Program.cs",
+              "ToolTip": "D:\\Telkom University\\Semester 4\\KPL\\Modul 4\\tpmodul4_1302223127\\tpmodul4_1302223127\\Program.cs",
+              "RelativeToolTip": "tpmodul4_1302223127\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T07:17:50.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
